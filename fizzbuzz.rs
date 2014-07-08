@@ -2,7 +2,6 @@
 fn main() {
     for number in range(1i, 101) {
 
-        /* allow mutability */
         let output = 
 
         if div_fifeteen(number) {
